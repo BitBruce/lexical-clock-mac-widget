@@ -1,0 +1,1 @@
+# lexical-clock-mac-widget
